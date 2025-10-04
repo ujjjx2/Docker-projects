@@ -29,7 +29,9 @@ multi-service-docker-app/
 
 ## Quick Start
 git clone https://github.com/ujjjx2/multi-service-docker-app
+
 cd multi-service-docker-app
+
 docker-compose up --build
 
 ## Things I learnt
