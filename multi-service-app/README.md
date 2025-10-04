@@ -28,7 +28,7 @@ multi-service-docker-app/
 </pre>
 
 ## Quick Start
-git clone https://github.com/ujjjx2/Docker-projects/multi-service-app
+git clone https://github.com/ujjjx2/Docker-projects/tree/main/multi-service-app
 <br>
 cd multi-service-docker-app
 <br>
