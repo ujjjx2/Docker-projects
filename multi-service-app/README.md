@@ -28,8 +28,10 @@ multi-service-docker-app/
 </pre>
 
 ## Quick Start
-git clone https://github.com/ujjjx2/multi-service-docker-app
+git clone https://github.com/ujjjx2/Docker-projects/tree/main/multi-service-app
+<br>
 cd multi-service-docker-app
+<br>
 docker-compose up --build
 
 ## Things I learnt
