@@ -10,5 +10,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 EXPOSE 5000
-
-CMD ["python", "app.py"]
+# when the container starts it runs the command python app.py
+CMD ["python", "app.py"] 
